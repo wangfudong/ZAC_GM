@@ -9,6 +9,9 @@ Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVP
 <p align="center">
 <img src="save/fig1.png" height="250" >
 <p>
+ <p align="center">
+<img src="save/nonrigid.gif" height="250" >
+<p>
  
  ## Details
  - Download the data from [Google Drive](https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the "data/" folder existed.
