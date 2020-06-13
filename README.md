@@ -11,7 +11,7 @@ Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVP
 <p>
  
  ## Details
- - Download the data from [Google Drive] (https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the data/ folder existed.
+ - Download the data from [Google Drive](https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the data/ folder existed.
  - The compared graph matching and point registration methods can be found in directories "src/GM_methods" and "src/PR_methods", respectively.
  - Run the demos to see some examples on the used datasets.
  
