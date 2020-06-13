@@ -1,0 +1,12 @@
+function option = set_opt_FRGM(unary,alpha,rota)
+option.M_exist = unary;
+option.alpha2 = alpha;
+option.lambda_EOT = 1/100;
+option.niter_EOT = 20;
+option.maxiter = 100;
+option.active = 1;
+option.func = 'inner';
+option.q_norm = 1;
+option.type = 'inner';
+option.full = 1;
+option.rota = rota;

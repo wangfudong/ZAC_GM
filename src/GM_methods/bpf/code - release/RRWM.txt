@@ -1,0 +1,187 @@
+ 
+============== algorithm Accuracy, image pair 1 ======== 
+IPFP    : acc: 0.07,  objectives: 20984.81
+RRWM    : acc: 1.00,  objectives: 20896.31
+PSM     : acc: 0.74,  objectives: 15947.81
+GNCCP   : acc: 0.04,  objectives: 4090.12
+BPF_G: acc: 1.00,  objectives: 21731.33 
+============== algorithm Accuracy, image pair 2 ======== 
+IPFP    : acc: 0.75,  objectives: 70802.13
+RRWM    : acc: 0.78,  objectives: 68727.17
+PSM     : acc: 0.79,  objectives: 52348.44
+GNCCP   : acc: 0.54,  objectives: 82568.90
+BPF_G: acc: 0.54,  objectives: 82340.21 
+============== algorithm Accuracy, image pair 3 ======== 
+IPFP    : acc: 0.81,  objectives: 13756.71
+RRWM    : acc: 0.81,  objectives: 13302.96
+PSM     : acc: 0.53,  objectives: 7836.71
+GNCCP   : acc: 0.81,  objectives: 14207.64
+BPF_G: acc: 0.81,  objectives: 14273.98 
+============== algorithm Accuracy, image pair 4 ======== 
+IPFP    : acc: 0.67,  objectives: 29676.66
+RRWM    : acc: 0.66,  objectives: 29352.26
+PSM     : acc: 0.66,  objectives: 26283.55
+GNCCP   : acc: 0.69,  objectives: 31056.66
+BPF_G: acc: 0.69,  objectives: 30828.45 
+============== algorithm Accuracy, image pair 5 ======== 
+IPFP    : acc: 0.49,  objectives: 14120.37
+RRWM    : acc: 0.56,  objectives: 14297.46
+PSM     : acc: 0.80,  objectives: 14185.74
+GNCCP   : acc: 0.73,  objectives: 15877.06
+BPF_G: acc: 0.73,  objectives: 15889.08 
+============== algorithm Accuracy, image pair 6 ======== 
+IPFP    : acc: 0.98,  objectives: 34083.42
+RRWM    : acc: 0.98,  objectives: 32941.39
+PSM     : acc: 0.96,  objectives: 29152.21
+GNCCP   : acc: 1.00,  objectives: 36536.56
+BPF_G: acc: 1.00,  objectives: 36321.50 
+============== algorithm Accuracy, image pair 7 ======== 
+IPFP    : acc: 1.00,  objectives: 858.42
+RRWM    : acc: 1.00,  objectives: 747.88
+PSM     : acc: 1.00,  objectives: 753.84
+GNCCP   : acc: 1.00,  objectives: 880.47
+BPF_G: acc: 1.00,  objectives: 866.24 
+============== algorithm Accuracy, image pair 8 ======== 
+IPFP    : acc: 0.38,  objectives: 971.63
+RRWM    : acc: 1.00,  objectives: 855.42
+PSM     : acc: 1.00,  objectives: 817.88
+GNCCP   : acc: 0.25,  objectives: 1269.04
+BPF_G: acc: 0.25,  objectives: 1269.04 
+============== algorithm Accuracy, image pair 9 ======== 
+IPFP    : acc: 0.93,  objectives: 3337.42
+RRWM    : acc: 0.89,  objectives: 3245.50
+PSM     : acc: 0.85,  objectives: 1764.48
+GNCCP   : acc: 0.93,  objectives: 3435.13
+BPF_G: acc: 0.89,  objectives: 3455.74 
+============== algorithm Accuracy, image pair 10 ======== 
+IPFP    : acc: 0.90,  objectives: 8752.67
+RRWM    : acc: 0.80,  objectives: 7921.98
+PSM     : acc: 0.68,  objectives: 7629.63
+GNCCP   : acc: 0.90,  objectives: 9150.39
+BPF_G: acc: 0.90,  objectives: 8971.34 
+============== algorithm Accuracy, image pair 11 ======== 
+IPFP    : acc: 0.74,  objectives: 15446.09
+RRWM    : acc: 0.74,  objectives: 15207.82
+PSM     : acc: 0.69,  objectives: 14765.79
+GNCCP   : acc: 0.70,  objectives: 16288.37
+BPF_G: acc: 0.70,  objectives: 16197.51 
+============== algorithm Accuracy, image pair 12 ======== 
+IPFP    : acc: 0.54,  objectives: 42796.29
+RRWM    : acc: 0.56,  objectives: 40499.99
+PSM     : acc: 0.47,  objectives: 34074.94
+GNCCP   : acc: 0.62,  objectives: 47047.47
+BPF_G: acc: 0.60,  objectives: 47120.70 
+============== algorithm Accuracy, image pair 13 ======== 
+IPFP    : acc: 0.59,  objectives: 26269.29
+RRWM    : acc: 0.62,  objectives: 23015.06
+PSM     : acc: 0.54,  objectives: 23087.57
+GNCCP   : acc: 0.62,  objectives: 27466.84
+BPF_G: acc: 0.62,  objectives: 27466.84 
+============== algorithm Accuracy, image pair 14 ======== 
+IPFP    : acc: 0.89,  objectives: 21509.44
+RRWM    : acc: 0.78,  objectives: 20439.90
+PSM     : acc: 0.72,  objectives: 17012.76
+GNCCP   : acc: 0.03,  objectives: 8506.66
+BPF_G: acc: 0.86,  objectives: 22267.42 
+============== algorithm Accuracy, image pair 15 ======== 
+IPFP    : acc: 0.28,  objectives: 17000.12
+RRWM    : acc: 0.28,  objectives: 17147.16
+PSM     : acc: 0.28,  objectives: 12129.99
+GNCCP   : acc: 0.29,  objectives: 18481.36
+BPF_G: acc: 0.29,  objectives: 18481.36 
+============== algorithm Accuracy, image pair 16 ======== 
+IPFP    : acc: 0.69,  objectives: 20413.99
+RRWM    : acc: 0.84,  objectives: 19902.59
+PSM     : acc: 0.75,  objectives: 18365.68
+GNCCP   : acc: 0.84,  objectives: 22082.32
+BPF_G: acc: 0.84,  objectives: 22026.02 
+============== algorithm Accuracy, image pair 17 ======== 
+IPFP    : acc: 0.69,  objectives: 13226.10
+RRWM    : acc: 0.65,  objectives: 12985.11
+PSM     : acc: 0.45,  objectives: 11456.26
+GNCCP   : acc: 0.75,  objectives: 15130.21
+BPF_G: acc: 0.75,  objectives: 15126.09 
+============== algorithm Accuracy, image pair 18 ======== 
+IPFP    : acc: 0.61,  objectives: 8088.91
+RRWM    : acc: 0.34,  objectives: 8082.44
+PSM     : acc: 0.36,  objectives: 6584.19
+GNCCP   : acc: 0.43,  objectives: 2625.42
+BPF_G: acc: 0.20,  objectives: 9842.46 
+============== algorithm Accuracy, image pair 19 ======== 
+IPFP    : acc: 0.62,  objectives: 13700.21
+RRWM    : acc: 0.70,  objectives: 12587.80
+PSM     : acc: 0.55,  objectives: 12711.46
+GNCCP   : acc: 0.75,  objectives: 15713.59
+BPF_G: acc: 0.72,  objectives: 15294.31 
+============== algorithm Accuracy, image pair 20 ======== 
+IPFP    : acc: 1.00,  objectives: 693.11
+RRWM    : acc: 1.00,  objectives: 647.08
+PSM     : acc: 0.25,  objectives: 245.01
+GNCCP   : acc: 1.00,  objectives: 758.06
+BPF_G: acc: 1.00,  objectives: 757.00 
+============== algorithm Accuracy, image pair 21 ======== 
+IPFP    : acc: 0.25,  objectives: 14525.11
+RRWM    : acc: 0.60,  objectives: 14546.67
+PSM     : acc: 0.65,  objectives: 13736.89
+GNCCP   : acc: 0.30,  objectives: 15946.42
+BPF_G: acc: 0.30,  objectives: 15591.83 
+============== algorithm Accuracy, image pair 22 ======== 
+IPFP    : acc: 0.92,  objectives: 1924.29
+RRWM    : acc: 0.92,  objectives: 1912.14
+PSM     : acc: 0.92,  objectives: 1919.28
+GNCCP   : acc: 0.92,  objectives: 1950.04
+BPF_G: acc: 0.92,  objectives: 1906.74 
+============== algorithm Accuracy, image pair 23 ======== 
+IPFP    : acc: 0.94,  objectives: 18822.35
+RRWM    : acc: 0.94,  objectives: 17995.72
+PSM     : acc: 0.94,  objectives: 15307.10
+GNCCP   : acc: 0.94,  objectives: 20277.88
+BPF_G: acc: 0.83,  objectives: 20058.91 
+============== algorithm Accuracy, image pair 24 ======== 
+IPFP    : acc: 0.76,  objectives: 7541.82
+RRWM    : acc: 0.90,  objectives: 7198.40
+PSM     : acc: 0.79,  objectives: 6997.51
+GNCCP   : acc: 0.86,  objectives: 8607.53
+BPF_G: acc: 0.86,  objectives: 8568.12 
+============== algorithm Accuracy, image pair 25 ======== 
+IPFP    : acc: 0.51,  objectives: 8803.75
+RRWM    : acc: 0.42,  objectives: 9054.87
+PSM     : acc: 0.56,  objectives: 8931.48
+GNCCP   : acc: 0.65,  objectives: 11388.23
+BPF_G: acc: 0.79,  objectives: 11213.06 
+============== algorithm Accuracy, image pair 26 ======== 
+IPFP    : acc: 0.85,  objectives: 9641.94
+RRWM    : acc: 0.80,  objectives: 9320.44
+PSM     : acc: 0.75,  objectives: 7819.79
+GNCCP   : acc: 0.85,  objectives: 9980.76
+BPF_G: acc: 0.85,  objectives: 10115.52 
+============== algorithm Accuracy, image pair 27 ======== 
+IPFP    : acc: 1.00,  objectives: 3931.09
+RRWM    : acc: 0.88,  objectives: 3670.23
+PSM     : acc: 0.35,  objectives: 3108.25
+GNCCP   : acc: 0.88,  objectives: 4179.47
+BPF_G: acc: 1.00,  objectives: 4327.21 
+============== algorithm Accuracy, image pair 28 ======== 
+IPFP    : acc: 0.85,  objectives: 5256.63
+RRWM    : acc: 0.85,  objectives: 5177.91
+PSM     : acc: 0.74,  objectives: 4630.21
+GNCCP   : acc: 0.81,  objectives: 5455.74
+BPF_G: acc: 0.81,  objectives: 5486.93 
+============== algorithm Accuracy, image pair 29 ======== 
+IPFP    : acc: 0.94,  objectives: 1497.54
+RRWM    : acc: 0.65,  objectives: 1261.49
+PSM     : acc: 0.65,  objectives: 1321.84
+GNCCP   : acc: 0.65,  objectives: 873.13
+BPF_G: acc: 0.94,  objectives: 1527.10 
+============== algorithm Accuracy, image pair 30 ======== 
+IPFP    : acc: 0.00,  objectives: 4954.09
+RRWM    : acc: 0.71,  objectives: 5011.58
+PSM     : acc: 0.79,  objectives: 5019.72
+GNCCP   : acc: 0.83,  objectives: 5860.88
+BPF_G: acc: 0.83,  objectives: 5860.88
+============== Average Accuracy =================== 
+IPF     : acc: 0.69,  objectives: 0.92, computational time: 0.13
+RRWM    : acc: 0.75,  objectives: 0.88, computational time: 0.46
+PSM     : acc: 0.67,  objectives: 0.76, computational time: 10.67
+GNCCP   : acc: 0.69,  objectives: 0.92, computational time: 3.53
+BPF_G  : acc: 0.75,  objectives: 1.00, computational time: 27.55
