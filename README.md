@@ -7,12 +7,12 @@ Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVP
  This work focuses on the problem of graph matching in the presence of outliers, based on the zero-assignment constraint. This repository consists of the code of our work ZAC/ZACR (ZAC with regularization) and the compared graph matching and point registration methods.
  
 <p align="center">
-<img src="save/fig1.png" height="200" >
+<img src="save/fig1.png" height="250" >
 <p>
  
  ## Details
- - Download the data from [Google Drive](https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the data/ folder existed.
- - The compared graph matching and point registration methods can be found in directories "src/GM_methods" and "src/PR_methods", respectively.
+ - Download the data from [Google Drive](https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the "data/" folder existed.
+ - The compared graph matching methods and point registration methods can be found in directories "src/GM_methods" and "src/PR_methods", respectively.
  - Run the demos to see some examples on the used datasets.
  
  ## Citation
