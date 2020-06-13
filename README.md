@@ -1,5 +1,6 @@
 # ZAC: Zero-Assignment Constraint for Graph Matching with Outliers
 Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Zero-Assignment_Constraint_for_Graph_Matching_With_Outliers_CVPR_2020_paper.pdf).
+
 [Supp](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_Zero-Assignment_Constraint_for_CVPR_2020_supplemental.pdf)
  
  ## Abstract
@@ -10,8 +11,7 @@ Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVP
 <p>
  
  ## Details
- - Download the data from [Google Drive] (https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing
-), then unzip it to replace the data/ folder existed.
+ - Download the data from [Google Drive] (https://drive.google.com/file/d/1-b_d_mMnyn7a7SwPsQOukk6ofTrHfw31/view?usp=sharing), then unzip it to replace the data/ folder existed.
  - The compared graph matching and point registration methods can be found in directories "src/GM_methods" and "src/PR_methods", respectively.
  - Run the demos to see some examples on the used datasets.
  
