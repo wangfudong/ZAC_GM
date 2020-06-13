@@ -1,4 +1,4 @@
-# ZAC: Zero-Assignment Constraint for Graph Matching with Outliers
+# Zero-Assignment Constraint for Graph Matching with Outliers
 Implementation for the [CVPR2020 paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Zero-Assignment_Constraint_for_Graph_Matching_With_Outliers_CVPR_2020_paper.pdf).
 
 [Supplementary materials](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_Zero-Assignment_Constraint_for_CVPR_2020_supplemental.pdf)
